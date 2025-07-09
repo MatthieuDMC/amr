@@ -74,7 +74,7 @@
         
         <collision>
             <geometry>
-                <cylinder radius="0.078" length="0.035"/>
+                <sphere radius="0.078"/>
             </geometry>
         </collision>
 
@@ -108,7 +108,7 @@
 
         <collision>
             <geometry>
-                <cylinder radius="0.078" length="0.035"/>
+                <sphere radius="0.078"/>
             </geometry>
         </collision>
 
